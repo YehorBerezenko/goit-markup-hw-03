@@ -63,7 +63,6 @@ a{
 /* ---------------------------------------HEADER-------------------------------- */
 .header{
     display: block;
-    padding: 24px 0;
     border-bottom: 1px solid #e7e9fc;
     
     
@@ -72,6 +71,7 @@ a{
 .header-container{
     display: flex;
     align-items: center;
+    padding: 24px 0;
 }
 
 .header-navigation{
