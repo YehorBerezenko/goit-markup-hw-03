@@ -71,8 +71,7 @@ a{
 .header-container{
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    
     
 }
 
@@ -124,8 +123,9 @@ a{
 
 .header-menu-link{
     color:#2e2f42;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: block
 }
 
 .header-menu-link:hover,
